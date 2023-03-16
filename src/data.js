@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Sistema de Centralización de Tráfico de Sevilla",
     subtitle: "Sistema de Información de Tráfico",
-    description: "Basado en ASP/IIS. Permite gestionar toda la información de tráfico de la ciudad de Sevilla, actuar sobre la instalación semafórica así recabar información sobre ella en tiempo real",
+    description: "Basado en ASP/IIS. Permite gestionar en tiempo real toda la información de tráfico de la ciudad de Sevilla así como actuar sobre la instalación semafórica.",
     image: "./sit3.png",
     link: "",
   },
@@ -52,8 +52,12 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node JS",
+  "Python",
+  "Flutter | Dart",
+  ".NET | .NET Core",
+  "CSS | HTML",
+  "Oracle | PL/SQL",
+  "PostgreSQL | PL/PgSQL",
+  "SQLServer | T-SQL",
 ];
