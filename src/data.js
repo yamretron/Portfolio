@@ -2,17 +2,17 @@ export const projects = [
   {
     title: "Sistema de Centralización de Tráfico de Sevilla",
     subtitle: "Sistema de Información de Tráfico",
-    description: "Basado en ASP/IIS. Permite gestionar en tiempo real toda la información de tráfico de la ciudad de Sevilla así como actuar sobre la instalación semafórica.",
+    description: "Basado en ASP/IIS. Gestiona en tiempo real toda la información de tráfico de la ciudad de Sevilla así como actuar sobre la instalación semafórica.",
     image: "./sit3.gif",
-    link: "",
+    link: "#",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Sistema de Centralización de Tráfico de Sevilla",
+    subtitle: "Sistema de Gestión de la Operación",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Basado en .NET/IIS. Gestiona de forma unificada todo el trabajo relacionado con la operación en el Centro de Gestión de Movilidad del Excmo. Ayto. de Svilla. Llamadas, incidencias, actuación sobre la instalación, informes, etc...",
+    image: "./optraficoweb.gif",
+    link: "#",
   },
   {
     title: "DevChat",
