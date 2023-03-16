@@ -1,11 +1,10 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    title: "Sistema de Centralización de Tráfico de Sevilla",
+    subtitle: "Sistema de Información de Tráfico",
+    description: "Basado en ASP/IIS. Permite gestionar toda la información de tráfico de la ciudad de Sevilla, actuar sobre la instalación semafórica así recabar información sobre ella en tiempo real",
+    image: "./sit3.png",
+    link: "",
   },
   {
     title: "React Tracks",
