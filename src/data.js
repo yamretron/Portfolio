@@ -10,7 +10,7 @@ export const projects = [
     title: "Sistema de Centralización de Tráfico de Sevilla",
     subtitle: "Sistema de Gestión de la Operación",
     description:
-      "Basado en .NET/IIS. Gestiona de forma unificada las llamadas, incidencias y actuaciones sobre la instalación en el Centro de Gestión de Movilidad del Ayto. de Sevilla.",
+      "Basado en .NET/IIS. Unificada la gestión de llamadas, incidencias y actuaciones en la instalación en el Centro de Gestión de Movilidad del Ayto. de Sevilla.",
     image: "./optraficoweb.gif",
     link: "#",
   },
