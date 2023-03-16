@@ -60,4 +60,8 @@ export const skills = [
   "Oracle | PL/SQL",
   "PostgreSQL | PL/PgSQL",
   "SQLServer | T-SQL",
+  "Tráfico urbano e interurbano",
+  "Sistemas de Información",
+  "Aplicaciones de Escritorio y Móviles",
+  "Sistemas Inteligentes",
 ];
