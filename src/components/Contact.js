@@ -46,8 +46,8 @@ export default function Contact() {
                 DIRECCIÓN
               </h2>
               <p className="mt-1">
-                97 Warren St. <br />
-                New York, NY 10007
+                Dirección ficticia<br />
+                Sevilla, 41005
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -69,11 +69,10 @@ export default function Contact() {
           name="contact"
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            ¡Contrátame!
+            Ponte en contacto conmigo
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            A través de este formulario puedes ponerte en contacto conmigo rápidamente. Te contestaré sobre la marcha!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
